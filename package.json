@@ -1,0 +1,18 @@
+{
+  "name": "project-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Iago Oliveira",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "axe-core": "^4.10.2",
+    "cypress": "^13.17.0",
+    "cypress-axe": "^1.5.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
