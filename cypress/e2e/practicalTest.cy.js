@@ -21,5 +21,6 @@ describe('Testes de Validação de Cadastro e Login', () => {
     // Descrição: Este teste tenta fazer login com um CPF inválido e verifica se a mensagem de erro apropriada é exibida.
     attemptLoginWithInvalidCPF('00000000012', 'zzZ1234');
     checkLoginError();
+    
   });
 });
